@@ -1,0 +1,31 @@
+Producto,Precio,Cantidad,Ciudad,Region,Ventas
+Pendrive 32GB,25,15,Lima,Lima,375
+Pendrive 64GB,45,10,Cusco,Cusco,450
+Pendrive 128GB,80,6,Arequipa,Arequipa,480
+Memoria RAM 8GB,120,5,Trujillo,La Libertad,600
+Memoria RAM 16GB,220,3,Lima,Lima,660
+Memoria RAM 32GB,380,2,Piura,Piura,760
+SSD 256GB,150,8,Lima,Lima,1200
+SSD 512GB,280,4,Cusco,Cusco,1120
+SSD 1TB,450,2,Arequipa,Arequipa,900
+Tarjeta SD 64GB,35,12,Lima,Lima,420
+Pendrive 32GB,25,18,Trujillo,La Libertad,450
+Memoria RAM 8GB,120,7,Chiclayo,Lambayeque,840
+SSD 256GB,150,11,Huancayo,Junin,1650
+Pendrive 64GB,45,13,Lima,Lima,585
+SSD 1TB,450,1,Ica,Ica,450
+Memoria RAM 16GB,220,4,Huaraz,Ancash,880
+Tarjeta SD 64GB,35,20,Cajamarca,Cajamarca,700
+Pendrive 128GB,80,9,Puno,Puno,720
+SSD 512GB,280,3,Tarapoto,San Martin,840
+Memoria RAM 32GB,380,2,Tacna,Tacna,760
+Pendrive 32GB,25,16,Moquegua,Moquegua,400
+SSD 256GB,150,6,Tumbes,Tumbes,900
+Memoria RAM 8GB,120,8,Pucallpa,Ucayali,960
+Pendrive 64GB,45,14,Iquitos,Loreto,630
+SSD 1TB,450,2,Chachapoyas,Amazonas,900
+Tarjeta SD 64GB,35,11,Huanuco,Huanuco,385
+Memoria RAM 16GB,220,5,Cerro de Pasco,Pasco,1100
+Pendrive 128GB,80,7,Abancay,Apurimac,560
+SSD 512GB,280,4,Ayacucho,Ayacucho,1120
+Memoria RAM 32GB,380,3,Huancavelica,Huancavelica,1140
