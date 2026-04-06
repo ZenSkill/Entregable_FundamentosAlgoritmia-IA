@@ -203,7 +203,7 @@ print(f"Varianza   (manual) : {var_m:.4f}")
 print(f"Desv. std  (manual) : {std_m:.4f}")
 print(f"Varianza   (NumPy)  : {var_np:.4f}")
 print(f"Desv. std  (NumPy)  : {std_np:.4f}")
-print("¿Coinciden?", "✓ Sí" if np.isclose(var_m, var_np) else "✗ No")
+print("¿Coinciden?", " Sí" if np.isclose(var_m, var_np) else " No")
 
 
 # ============================================================
