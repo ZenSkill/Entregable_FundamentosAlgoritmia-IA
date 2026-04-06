@@ -51,6 +51,9 @@ Usando **NumPy**:
 Este trabajo final fue desarrollado por:
 
 **Jhonatan Jhon Najarro Mejia**
+
 Estudiante de **Fundamentos y Algoritmia para Inteligencia Artificial (PIAD-426)**
+
 SENATI
+
 Año académico: 2026
